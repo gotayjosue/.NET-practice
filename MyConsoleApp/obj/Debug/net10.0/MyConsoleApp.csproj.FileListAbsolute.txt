@@ -1,0 +1,14 @@
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Josue Gotay\Documents\.NET practice\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
