@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "csharp",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/DotNetDependencies.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+    ]
+}
