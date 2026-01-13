@@ -1,0 +1,15 @@
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\bin\Debug\net8.0\mslearn-dotnet-files.exe
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\bin\Debug\net8.0\mslearn-dotnet-files.deps.json
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\bin\Debug\net8.0\mslearn-dotnet-files.runtimeconfig.json
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\bin\Debug\net8.0\mslearn-dotnet-files.dll
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\bin\Debug\net8.0\mslearn-dotnet-files.pdb
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.AssemblyInfo.cs
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.sourcelink.json
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.dll
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\refint\mslearn-dotnet-files.dll
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.pdb
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\mslearn-dotnet-files.genruntimeconfig.cache
+C:\Users\Josue Gotay\Documents\.NET practice\DotNetWorkingWithFiles\obj\Debug\net8.0\ref\mslearn-dotnet-files.dll

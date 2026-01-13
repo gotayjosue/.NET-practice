@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mslearn-dotnet-files/1.0.0": {
+        "runtime": {
+          "mslearn-dotnet-files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mslearn-dotnet-files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
