@@ -1,0 +1,25 @@
+GET http://localhost:5011/todos
+
+###
+
+POST http://localhost:5011/todos
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "Fourth Todo",
+    "dueDate": "2026-12-31T23:59:59",
+    "isCompleted": false
+}
+
+###
+
+GET http://localhost:5011/todos/2
+
+###
+
+DELETE http://localhost:5011/todos/4
+
+###
+
+GET http://localhost:5011/tasks/2
